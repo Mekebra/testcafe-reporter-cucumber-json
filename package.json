@@ -63,7 +63,7 @@
     "typescript": "3.9.7"
   },
   "peerDependencies": {
-    "testcafe": "1.x"
+    "testcafe": "^1.x"
   },
   "engines": {
     "vscode": "^1.18.0"
